@@ -10,6 +10,3 @@ Add expenses and view totals by category.
 4. To add directly: `python add_expense.py`
 5. To see totals: `python show_totals.py`
 
-## Data format
-Each line: `Category,amount`
-Example:
