@@ -1,0 +1,2 @@
+food,25.50
+transport,12.50
